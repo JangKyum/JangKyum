@@ -29,3 +29,9 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&logoWidth=14&label=" alt="Figma" height="20" /></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&logoWidth=14&label=" alt="Discord" height="20" /></a>
 </div>
+
+<br>
+
+<h3 align="center">
+  <a href="https://jangkyum.github.io/resume/" target="_blank"><strong>포트폴리오 바로가기</strong></a>
+</h3>
