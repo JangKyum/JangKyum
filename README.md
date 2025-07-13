@@ -33,5 +33,5 @@
 <br>
 
 <h3 align="center">
-  <a href="https://jangkyum.github.io/resume/" target="_blank"><strong>포트폴리오 바로가기</strong></a>
+  <a href="https://jk-pf.vercel.app/" target="_blank"><strong>포트폴리오 바로가기</strong></a>
 </h3>
