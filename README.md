@@ -35,3 +35,11 @@
 <h3 align="center">
   <a href="https://jk-pf.vercel.app/" target="_blank"><strong>포트폴리오 바로가기</strong></a>
 </h3>
+
+<h3 align="center">
+  <a href="https://codedot-blog.vercel.app/" target="_blank"><strong>블로그 바로가기</strong></a>
+</h3>
+
+<h3 align="center">
+  <a href="https://pik2.vercel.app/" target="_blank"><strong>밸런스 게임 하러가기(Pick2)</strong></a>
+</h3>
