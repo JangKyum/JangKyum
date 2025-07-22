@@ -41,5 +41,5 @@
 </h3>
 
 <h3 align="center">
-  <a href="https://pik2.vercel.app/" target="_blank"><strong>밸런스 게임 하러가기(Pick2)</strong></a>
+  <a href="https://pik2.vercel.app/" target="_blank"><strong>밸런스 게임 하러가기(Pik2)</strong></a>
 </h3>
